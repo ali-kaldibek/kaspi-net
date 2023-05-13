@@ -1,0 +1,19 @@
+/* teltonika */
+.specifications-background{
+    display: flex;
+    background-color: var(--color-2);
+    border-radius: 20px;
+    height: 360px;
+    width: 850px;
+    margin: 40px 300px 100px 300px;
+}
+.specifications{
+    padding: 40px;
+}
+.specifications div{
+    margin: 15px;
+}
+.specifications span{
+    margin: 0 0 0 40px;
+}
+/* teltonika end*/

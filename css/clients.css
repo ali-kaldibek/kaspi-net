@@ -1,0 +1,25 @@
+/* partners */
+.partners{
+    margin: 20px 0 0 0;
+}
+.partners-title{
+    margin: 0 0 150px 0;
+}
+.partners-div1{
+    margin: 150px 200px 0 330px;
+}
+.partners-div1,
+.partners-div2{
+    margin: 0 200px 50px 330px;
+}
+.partners-div2,
+.partners-div3{
+    margin: 50px 200px 0 330px;
+}
+.partners-div3{
+    margin: 0 200px 200px 330px;
+}
+.partners-line{
+    margin: 0 50px 0 0;
+}
+/* partners end*/

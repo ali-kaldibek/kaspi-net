@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    align-items: center;
+    align-items: flex-start;
+    /* position: fixed; */
+    height: 50px;
+    width: 1420px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: var(--color-2);
+}
+header > div{
+    margin: 10px;
+}
